@@ -24,7 +24,7 @@ You can reach me via <a href="{{ site.links.email }}">gusrylmubarok@gmail.com</a
 <hr>
 <div>
     👨‍💻 <b>I'm building a </b> Marketpedia Android App, Flipmarket Website, <del>Cekongkir App</del>. <br>
-    📙 <b>I'm studying about</b> Scalable Web Service with Golang at <a href="https://www.hacktiv8.com/scalable-web-services-with-golang">Hactiv8 Course</a>.
+    📙 <b>I'm studying about</b> Scalable Web Service with Golang at <a href="https://www.hacktiv8.com/scalable-web-services-with-golang" target="_blank">Hactiv8 Course</a>.
 </div>
 <hr>
 
@@ -154,6 +154,6 @@ You can reach me via <a href="{{ site.links.email }}">gusrylmubarok@gmail.com</a
 <h4><a>[04]</a> Certifications</h4>
 {% for item in site.data.certifications %}
 <ul style="list-style:none; margin-top:0;margin-bottom:0;">
-    <li><a href="{{ item.url }}" style="list-style: none; margin-left: 0; margin-top:0;margin-bottom:0;">{% include icons/link.html %} {{ item.title }}</a></li>
+    <li><a href="{{ item.url }}" style="list-style: none; margin-left: 0; margin-top:0;margin-bottom:0;" target="_blank">{% include icons/link.html %} {{ item.title }}</a></li>
 </ul>
 {% endfor %}
