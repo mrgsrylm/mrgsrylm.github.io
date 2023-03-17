@@ -1,0 +1,19 @@
+version: 2
+updates:
+- package-ecosystem: bundler
+  directory: "/"
+  schedule:
+    interval: monthly
+  open-pull-requests-limit: 10
+  reviewers:
+  - gusrylmubarok
+  allow:
+  - dependency-type: direct
+  - dependency-type: indirect
+- package-ecosystem: github-actions
+  directory: "/"
+  schedule:
+    interval: monthly
+  open-pull-requests-limit: 10
+  reviewers:
+  - gusrylmubarok

@@ -1,0 +1,51 @@
+---
+---
+
+@charset "utf-8";
+
+// Font
+$base-font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
+$base-font-size: 16px;
+$base-font-weight: 400;
+$small-font-size: $base-font-size * 0.875;
+
+// Color
+html { 
+  --background-color: #ffffff;
+  --secondary-background-color: #E9EAF0;
+  --text-color: #000000;
+  --secondary-text-color: #3c3c4399;
+  --link-background-color: #ccccff;
+  --syntax-background-color: #f2f2f2;
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    --background-color: #0d1116;
+    --secondary-background-color: #2E303C;
+    --text-color: #f8f8f2;
+    --secondary-text-color: #ebebf599;
+    --link-background-color: #4c36ad;
+    --syntax-background-color: #2c2c2eff;
+  }
+}
+
+$primary-content-color: #5e5ce6ff;
+$code-color: #6c757d;
+$border-color: #54545899;
+
+// Others
+$base-line-height: 1.5;
+$spacing-unit: 32px;
+$content-width: 860px;
+$on-palm: 600px;
+$on-laptop: 860px;
+
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import "base", "layout", "syntax-highlighting";
