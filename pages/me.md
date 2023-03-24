@@ -103,7 +103,7 @@ You can reach me via <a href="{{ site.links.email }}">gusrylmubarok@gmail.com</a
 </div>
 </details>
 
-<detailsn open>
+<details open>
 <summary>Soft Skill</summary>
 <div class="app-icons">
     <span>
