@@ -31,7 +31,7 @@ You can reach me via <a href="{{ site.links.email }}">gusrylmubarok@gmail.com</a
 <!-- Skill Set -->
 <h4><a>[01]</a> Skills</h4>
 
-<details>
+<details open>
 <summary>Programming Language</summary>
 <div class="app-icons">
     <img src="{{ site.baseurl }}/assets/about/kotlin.svg" width="50" height="50">
@@ -43,7 +43,7 @@ You can reach me via <a href="{{ site.links.email }}">gusrylmubarok@gmail.com</a
 </div>
 </details>
 
-<details>
+<details open>
 <summary>Frameworks</summary>
 <div class="app-icons">
     <img src="{{ site.baseurl }}/assets/about/android.svg" width="50" height="50">
@@ -57,7 +57,7 @@ You can reach me via <a href="{{ site.links.email }}">gusrylmubarok@gmail.com</a
 </div>
 </details>
 
-<details>
+<details open>
 <summary>Other Tools</summary>
 <div class="app-icons">
     <img src="{{ site.baseurl }}/assets/about/linux.svg" width="50" height="50">
@@ -103,7 +103,7 @@ You can reach me via <a href="{{ site.links.email }}">gusrylmubarok@gmail.com</a
 </div>
 </details>
 
-<details>
+<detailsn open>
 <summary>Soft Skill</summary>
 <div class="app-icons">
     <span>
