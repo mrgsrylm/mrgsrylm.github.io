@@ -15,19 +15,38 @@ permalink: /apps/cekongkir
 
 <p class="no-marker-link">
 <a href="{{ site.links.cekongkir }}" target="_blank">
-    <picture>
-        <source srcset="{{ site.baseurl }}/assets/badges/google-play-store-badge.svg" width="150">
-        <img src="{{ site.baseurl }}/assets/badges/google-play-store-badge.svg" width="150">
-    </picture>
+  <picture>
+      <source srcset="{{ site.baseurl }}/assets/badges/touch.svg" height="40">
+      <img src="{{ site.baseurl }}/assets/badges/touch.svg" height="40">
+  </picture>
+</a>
+<a href="{{ site.links.cekongkir }}" target="_blank"  class="pe-none" tabindex="-1" aria-disabled="true">
+  <picture>
+      <source srcset="{{ site.baseurl }}/assets/badges/google-play-store-badge.svg" height="40">
+      <img src="{{ site.baseurl }}/assets/badges/google-play-store-badge.svg" height="40">
+  </picture>
+</a>
+<a href="https://www.amazon.com/gp/product/B0BZR96P3L" target="_blank">
+  <picture>
+      <source srcset="{{ site.baseurl }}/assets/badges/amazon-appstore-badge-black.png" height="40">
+      <img src="{{ site.baseurl }}/assets/badges/amazon-appstore-badge-black.png" height="40">
+  </picture>
 </a>
 </p>
 
-Cekongkir is a simple process-oriented for cheking the cost of shipping goods in Indonesia. The application is available on Andorid.
+**!INFO** This still proccess on publish to play store, but you can try with download it.
+
+<p align="justify">
+Cekongkir have a facility to check the price of shipping costs of a cargo/item on an expedition through a platform or container provided by the service owner.
+</p>
 
 **Features:**
+- **Main:** Checking the cost of shipping goods in Indonesia.
 
-- **Main:** Checking the cost of shipping goods in Indonesia country with some courier.
+**Versions:**
+- **v1.0.1** released on March 29, 2023.
+- **v1.0.0** released on March 3, 2023.
 
-<hr>
+---
 
-<a href="mailto:gusrylmubarok@gmail.com">Contact</a> ・ <a href="/apps/cekongkir/privacy/">Privacy Policy</a> ・ <a href="/apps/cekongkir/terms/">Terms and Conditions</a>
+<a href="mailto:gusrylmubarok@gmail.com">Contact</a>

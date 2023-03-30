@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Cekongkir Terms and Conditions
-permalink: /apps/cekongkir/terms/
+title: Notes Terms and Conditions
+permalink: /apps/notes/terms/
 ---
 
 <h2><strong>Terms and Conditions</strong></h2>

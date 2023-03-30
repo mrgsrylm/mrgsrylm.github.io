@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Cekongkir Privacy Policy
-permalink: /apps/cekongkir/privacy/
+title: Notes Privacy Policy
+permalink: /apps/notes/privacy/
 ---
 
 ## Privacy Policy

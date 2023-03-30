@@ -5,17 +5,31 @@ permalink: /projects/
 ---
 
 <div>
+    <img src="../assets/apps/notes/notes.png" class="rounded" width="100" height="100">
+    <h2>Notes</h2>
+    <div>
+        <span class="badge badge-pill">v1.0</span>
+        <span class="badge badge-pill">Free</span>
+        <span class="badge badge-pill">Android</span>
+        <span class="badge badge-pill">Kotlin</span>
+    </div>
+    <p>Quickly capture what’s on your mind and get a reminder later at the right place or time.</p>
+    <p><a href="/apps/notes">Read More {% include icons/chevron-right.html %}</a></p>
+    <p class="text-muted"><i>Released on March 30, 2023</i></p>
+</div>
+
+<div>
     <img src="../assets/apps/cekongkir/cekongkir.png" class="rounded" width="100" height="100">
     <h2>Cekongkir</h2>
     <div>
-        <span class="badge badge-pill">V1.0.0</span>
+        <span class="badge badge-pill">v1.0.1</span>
         <span class="badge badge-pill">Free</span>
         <span class="badge badge-pill">Android</span>
         <span class="badge badge-pill">Flutter</span>
     </div>
     <p>Mobile application for cheking the cost of shipping goods in Indonesia.</p>
     <p><a href="/apps/cekongkir">Read More {% include icons/chevron-right.html %}</a></p>
-    <p class="text-muted"><i>Released on March 3, 2023</i></p>
+    <p class="text-muted"><i>Released on March 29, 2023</i></p>
 </div>
 
 <hr>
