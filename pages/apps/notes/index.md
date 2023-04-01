@@ -43,6 +43,8 @@ Notes a good helper to manage your schedules and notes. It gives you a quick and
 **Versions:**
 - **v1.0** released on March 30, 2023.
 
+**Tech Stack:** **Kotlin**, **Android**.
+
 ---
 
 <a href="mailto:gusrylmubarok@gmail.com">Contact</a>

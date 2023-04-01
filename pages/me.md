@@ -12,7 +12,7 @@ image: /assets/about/profile.jpg
 <!-- Intro -->
 
 {: style="text-align: justify" }
-I'm <b>Agus S. Mubarok</b> a software engineer focused on building high-quality application. My interest in [software development](/), [system design](/), [cloud computing](/), and [open-source software](/). Have ability to use some programming languages to build and maintenance application products then make sure it works.
+I'm <b>Agus S. Mubarok</b> a software engineer focused on building high-quality application. My interest in [software development](/), [system design](/), [cloud computing](/), and [mobile application](/). Have ability to use some programming languages to build and maintenance application products then make sure it works.
 
 {: style="text-align: justify" }
 As a software engineer, I motivated to learn something new technology, then put special effort into optimizing my code and providing the best user experience. My goal is to always build applications that are scalable and efficient. When I'm not in front of a computer screen, I'm probably cycling, swimming or something.
@@ -23,7 +23,7 @@ You can reach me via <a href="{{ site.links.email }}">gusrylmubarok@gmail.com</a
 
 <hr>
 <div>
-    👨‍💻 <b>I'm building a </b> Marketpedia, Chat, <del>Cekongkir App</del>. <br>
+    👨‍💻 <b>I'm building a </b> Marketpedia, Al-Qur'an, <del>Cekongkir App</del>. <br>
     📙 <b>I'm studying about</b> Scalable Web Service with Golang at <a href="https://www.hacktiv8.com/scalable-web-services-with-golang" target="_blank">Hactiv8 Course</a>.
 </div>
 <hr>
@@ -77,6 +77,12 @@ You can reach me via <a href="{{ site.links.email }}">gusrylmubarok@gmail.com</a
     <img src="{{ site.baseurl }}/assets/about/apachemaven.svg" width="50" height="50" alt="maven">
     <img src="{{ site.baseurl }}/assets/about/composer.svg" width="50" height="50" alt="composer">
     <img src="{{ site.baseurl }}/assets/about/npm.svg" width="50" height="50" alt="npm">
+    <img src="{{ site.baseurl }}/assets/about/jetpackcompose.svg" width="50" height="50" alt="jetpackcompose">
+    <img src="{{ site.baseurl }}/assets/about/androidauto.svg" width="50" height="50">
+    <img src="{{ site.baseurl }}/assets/about/googlecloud.svg" width="50" height="50">
+    <img src="{{ site.baseurl }}/assets/about/googleplay.svg" width="50" height="50">
+    <img src="{{ site.baseurl }}/assets/about/docker.svg" width="50" height="50" alt="docker">
+    <img src="{{ site.baseurl }}/assets/about/ngrok.svg" width="50" height="50" alt="ngrok">
     <img src="{{ site.baseurl }}/assets/about/flyway.svg" width="50" height="50" alt="flayway">
     <img src="{{ site.baseurl }}/assets/about/hibernate.svg" width="50" height="50" alt="hibernate">
     <img src="{{ site.baseurl }}/assets/about/oracle.svg" width="50" height="50" alt="oracle">    
@@ -87,12 +93,6 @@ You can reach me via <a href="{{ site.links.email }}">gusrylmubarok@gmail.com</a
     <img src="{{ site.baseurl }}/assets/about/apachekafka.svg" width="50" height="50" alt="kafka">
     <img src="{{ site.baseurl }}/assets/about/rabbitmq.svg" width="50" height="50" alt="rabbitmq">
     <img src="{{ site.baseurl }}/assets/about/elasticsearch.svg" width="50" height="50">    
-    <img src="{{ site.baseurl }}/assets/about/docker.svg" width="50" height="50" alt="docker">
-    <img src="{{ site.baseurl }}/assets/about/ngrok.svg" width="50" height="50" alt="ngrok">
-    <img src="{{ site.baseurl }}/assets/about/jetpackcompose.svg" width="50" height="50" alt="jetpackcompose">
-    <img src="{{ site.baseurl }}/assets/about/androidauto.svg" width="50" height="50">
-    <img src="{{ site.baseurl }}/assets/about/googlecloud.svg" width="50" height="50">
-    <img src="{{ site.baseurl }}/assets/about/googleplay.svg" width="50" height="50">
     <img src="{{ site.baseurl }}/assets/about/nodedotjs.svg" width="50" height="50">
     <img src="{{ site.baseurl }}/assets/about/materialdesign.svg" width="50" height="50">
     <img src="{{ site.baseurl }}/assets/about/jekyll.svg" width="50" height="50">

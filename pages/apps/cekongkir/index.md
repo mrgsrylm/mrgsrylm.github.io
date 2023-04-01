@@ -47,6 +47,8 @@ Cekongkir have a facility to check the price of shipping costs of a cargo/item o
 - **v1.0.1** released on March 29, 2023.
 - **v1.0.0** released on March 3, 2023.
 
+**Tech Stack:** **Dart**, **Flutter**, **GetX**.
+
 ---
 
 <a href="mailto:gusrylmubarok@gmail.com">Contact</a>
