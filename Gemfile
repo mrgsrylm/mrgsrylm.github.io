@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'jekyll'
 gem 'rouge'
+gem 'jekyll-mermaid'
 
 group :jekyll_plugins do
   gem 'jekyll-feed'
