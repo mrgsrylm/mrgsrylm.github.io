@@ -23,8 +23,8 @@ You can reach me via <a href="{{ site.links.email }}">gusrylmubarok@gmail.com</a
 
 <hr>
 <div>
-    👨‍💻 <b>I'm building a </b> Marketpedia, <del>Cekongkir App</del>. <br>
-    📙 <b>I'm studying about</b> Scalable Web Service with Golang at <a href="https://www.hacktiv8.com/scalable-web-services-with-golang" target="_blank">Hactiv8 Course</a>, Linux System Administration - BTA at <a href="https://adinusa.id/course/courses/fundamental-linux-system-administrator" target="_blank">Adinusa Course</a>.
+    👨‍💻 <b>I'm building a </b> Marketpedia, <del>FQR Code</del>, <del>Cekongkir App</del>. <br>
+    📙 <b>I'm studying about</b> Flutter at <a href="https://buildwithangga.com/belajar/flutter">BWA</a>, <del>Scalable Web Service with Golang at <a href="https://www.hacktiv8.com/scalable-web-services-with-golang" target="_blank">Hactiv8 Course</a></del>.
 </div>
 <hr>
 
