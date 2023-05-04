@@ -39,28 +39,28 @@ permalink: /projects/
 <div class="app-icons">
     <ul style="list-style:none;margin-left:0;margin-top:0;margin-bottom:0;">
         <li>
-            <img src="../assets/apps/default/api.png" class="rounded" width="50" height="50">
+            <img src="../assets/apps/default/api.jpg" class="rounded" width="50" height="50">
             <a href="https://github.com/gusrylmubarok/backing-platform-backend/" style="list-style:none;margin-left:0;margin-top:0;margin-bottom:0;" target="_blank">
                 Backing Platform API <i>on Feb 15, 2023</i> | 
                 <span class="text-muted">Go, Gin-Gonic, MySQL</span>
             </a>
         </li>
         <li>
-            <img src="../assets/apps/default/web.png" class="rounded" width="50" height="50">
+            <img src="../assets/apps/default/web.jpg" class="rounded" width="50" height="50">
             <a href="http://toeflclass-mzssoftwarehouse.com/" style="list-style:none;margin-left:0;margin-top:0;margin-bottom:0;" target="_blank">
                 MZS CBT Website <i>on Nov 5, 2020</i> | 
                 <span class="text-muted">PHP, CSS, CodeIgneter, Bootstrap</span>
             </a>
         </li>
         <li>
-            <img src="../assets/apps/default/api.png" class="rounded" width="50" height="50">
+            <img src="../assets/apps/default/api.jpg" class="rounded" width="50" height="50">
             <a href="https://github.com/gusrylmubarok/reddot/" style="list-style:none;margin-left:0;margin-top:0;margin-bottom:0;" target="_blank">
                 Reddot API <i>on Jul 1, 2020</i> | 
                 <span class="text-muted">Kotlin, Spring Boot, Postgres</span>
             </a>
         </li>
         <li>
-            <img src="../assets/apps/default/web.png" class="rounded" width="50" height="50">
+            <img src="../assets/apps/default/web.jpg" class="rounded" width="50" height="50">
             <a href="https://fosmotor.com/" style="list-style:none;margin-left:0;margin-top:0;margin-bottom:0;" target="_blank">
                 FOSMotor Website <i>on Jan 30, 2020</i> | 
                 <span class="text-muted">PHP, CSS, Laravel, Bootstrap</span>
