@@ -86,6 +86,7 @@ GEM
       forwardable-extended (~> 2.6)
     public_suffix (5.0.1)
     racc (1.6.2)
+    rake (13.0.6)
     rb-fsevent (0.11.2)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
@@ -93,8 +94,9 @@ GEM
     rouge (4.1.0)
     ruby2_keywords (0.0.5)
     safe_yaml (1.0.5)
-    sass-embedded (1.62.0-x86_64-linux-gnu)
+    sass-embedded (1.62.1)
       google-protobuf (~> 3.21)
+      rake (>= 10.0.0)
     sawyer (0.9.2)
       addressable (>= 2.3.5)
       faraday (>= 0.17.3, < 3)
@@ -122,4 +124,4 @@ DEPENDENCIES
   rouge
 
 BUNDLED WITH
-   2.4.8
+   2.4.12

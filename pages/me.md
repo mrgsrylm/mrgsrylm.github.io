@@ -23,8 +23,8 @@ You can reach me via <a href="{{ site.links.email }}">gusrylmubarok@gmail.com</a
 
 <hr>
 <div>
-    👨‍💻 <b>I'm building a </b> Marketpedia, <del>FQR Code</del>, <del>Cekongkir App</del>. <br>
-    📙 <b>I'm studying about</b> Flutter at <a href="https://buildwithangga.com/belajar/flutter">BWA</a>, <del>Scalable Web Service with Golang at <a href="https://www.hacktiv8.com/scalable-web-services-with-golang" target="_blank">Hactiv8 Course</a></del>.
+    👨‍💻 <b>I'm building a </b> Poy Wallet, <del>Fresensi</del>, <del>FQR COde</del> Applications. <br>
+    📙 <b>I'm studying about</b> Flutter at <a href="https://buildwithangga.com/belajar/flutter">BWA</a>, <del>Scalable Web Service with Golang at <a href="https://www.hacktiv8.com/scalable-web-services-with-golang" target="_blank">Hactiv8</a></del> Courses.
 </div>
 <hr>
 
@@ -77,6 +77,10 @@ You can reach me via <a href="{{ site.links.email }}">gusrylmubarok@gmail.com</a
     <img src="{{ site.baseurl }}/assets/about/apachemaven.svg" width="50" height="50" alt="maven">
     <img src="{{ site.baseurl }}/assets/about/composer.svg" width="50" height="50" alt="composer">
     <img src="{{ site.baseurl }}/assets/about/npm.svg" width="50" height="50" alt="npm">
+
+    <img src="{{ site.baseurl }}/assets/about/javascript.svg" width="50" height="50" alt="javascript">
+    <img src="{{ site.baseurl }}/assets/about/react.svg" width="50" height="50" alt="react">
+    <img src="{{ site.baseurl }}/assets/about/nodedotjs.svg" width="50" height="50">
     <img src="{{ site.baseurl }}/assets/about/jetpackcompose.svg" width="50" height="50" alt="jetpackcompose">
     <img src="{{ site.baseurl }}/assets/about/androidauto.svg" width="50" height="50">
     <img src="{{ site.baseurl }}/assets/about/googlecloud.svg" width="50" height="50">
@@ -85,17 +89,19 @@ You can reach me via <a href="{{ site.links.email }}">gusrylmubarok@gmail.com</a
     <img src="{{ site.baseurl }}/assets/about/ngrok.svg" width="50" height="50" alt="ngrok">
     <img src="{{ site.baseurl }}/assets/about/flyway.svg" width="50" height="50" alt="flayway">
     <img src="{{ site.baseurl }}/assets/about/hibernate.svg" width="50" height="50" alt="hibernate">
+
     <img src="{{ site.baseurl }}/assets/about/oracle.svg" width="50" height="50" alt="oracle">    
     <img src="{{ site.baseurl }}/assets/about/postgresql.svg" width="50" height="50" alt="postgresql">
     <img src="{{ site.baseurl }}/assets/about/mariadb.svg" width="50" height="50" alt="mariadb">
+    <img src="{{ site.baseurl }}/assets/about/firebase.svg" width="50" height="50" alt="firebase">
     <img src="{{ site.baseurl }}/assets/about/mongodb.svg" width="50" height="50" alt="mongodb">
     <img src="{{ site.baseurl }}/assets/about/redis.svg" width="50" height="50" alt="redis">
     <img src="{{ site.baseurl }}/assets/about/apachekafka.svg" width="50" height="50" alt="kafka">
     <img src="{{ site.baseurl }}/assets/about/rabbitmq.svg" width="50" height="50" alt="rabbitmq">
     <img src="{{ site.baseurl }}/assets/about/elasticsearch.svg" width="50" height="50">    
-    <img src="{{ site.baseurl }}/assets/about/nodedotjs.svg" width="50" height="50">
     <img src="{{ site.baseurl }}/assets/about/materialdesign.svg" width="50" height="50">
     <img src="{{ site.baseurl }}/assets/about/jekyll.svg" width="50" height="50">
+
     <img src="{{ site.baseurl }}/assets/about/virtualbox.svg" width="50" height="50">
     <img src="{{ site.baseurl }}/assets/about/amazonaws.svg" width="50" height="50">
     <img src="{{ site.baseurl }}/assets/about/nginx.svg" width="50" height="50">
@@ -106,6 +112,7 @@ You can reach me via <a href="{{ site.links.email }}">gusrylmubarok@gmail.com</a
     <img src="{{ site.baseurl }}/assets/about/sonarqube.svg" width="50" height="50">
     <img src="{{ site.baseurl }}/assets/about/circleci.svg" width="50" height="50">
     <img src="{{ site.baseurl }}/assets/about/swagger.svg" width="50" height="50">
+    <img src="{{ site.baseurl }}/assets/about/jira.svg" width="50" height="50">
 
 </div>
 </details>
