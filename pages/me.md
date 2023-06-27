@@ -23,8 +23,8 @@ You can reach me via <a href="{{ site.links.email }}">gusrylmubarok@gmail.com</a
 
 <hr>
 <div>
-    👨‍💻 <b>I'm building a </b> Poy Wallet, <del>Fresensi</del>, <del>FQR COde</del> Applications. <br>
-    📙 <b>I'm studying about</b> Flutter at <a href="https://buildwithangga.com/belajar/flutter">BWA</a>, <del>Scalable Web Service with Golang at <a href="https://www.hacktiv8.com/scalable-web-services-with-golang" target="_blank">Hactiv8</a></del> Courses.
+    👨‍💻 <b>I'm building applications: </b> Poy Wallet, <del>Vaccine Partners</del>. <br>
+    📙 <b>I'm studying about</b> Database Design & SQL at <a href="https://academy.oracle.com/">Oracle Academy</a>, <del>Scalable Web Service at <a href="https://www.hacktiv8.com/scalable-web-services-with-golang" target="_blank">Hactiv8</a></del>.
 </div>
 <hr>
 
@@ -44,22 +44,21 @@ You can reach me via <a href="{{ site.links.email }}">gusrylmubarok@gmail.com</a
 <details open>
 <summary>Programming Language</summary>
 <div class="app-icons">
-    <img src="{{ site.baseurl }}/assets/about/kotlin.svg" width="50" height="50" alt="kotlin">
     <img src="{{ site.baseurl }}/assets/about/dart.svg" width="50" height="50" alt="dart">
-    <img src="{{ site.baseurl }}/assets/about/java.svg" width="50" height="50" alt="java">
+        <img src="{{ site.baseurl }}/assets/about/java.svg" width="50" height="50" alt="java">
+    <img src="{{ site.baseurl }}/assets/about/kotlin.svg" width="50" height="50" alt="kotlin">
     <img src="{{ site.baseurl }}/assets/about/go.svg" width="50" height="50" alt="go">
-    <img src="{{ site.baseurl }}/assets/about/php.svg" width="50" height="50" alt="php">
+
 </div>
 </details>
 
 <details open>
 <summary>Frameworks</summary>
 <div class="app-icons">
-    <img src="{{ site.baseurl }}/assets/about/android.svg" width="50" height="50" alt="android">
     <img src="{{ site.baseurl }}/assets/about/flutter.svg" width="50" height="50" alt="flutter">
     <img src="{{ site.baseurl }}/assets/about/spring.svg" width="50" height="50" alt="spring">
+    <img src="{{ site.baseurl }}/assets/about/android.svg" width="50" height="50" alt="android">
     <img src="{{ site.baseurl }}/assets/about/gin-gonic.svg" width="50" height="50" alt="gin-gonic">
-    <img src="{{ site.baseurl }}/assets/about/laravel.svg" width="50" height="50" alt="laravel">
 </div>
 </details>
 
@@ -78,13 +77,13 @@ You can reach me via <a href="{{ site.links.email }}">gusrylmubarok@gmail.com</a
     <img src="{{ site.baseurl }}/assets/about/composer.svg" width="50" height="50" alt="composer">
     <img src="{{ site.baseurl }}/assets/about/npm.svg" width="50" height="50" alt="npm">
 
+    <img src="{{ site.baseurl }}/assets/about/php.svg" width="50" height="50" alt="php">
+    <img src="{{ site.baseurl }}/assets/about/laravel.svg" width="50" height="50" alt="laravel">
     <img src="{{ site.baseurl }}/assets/about/javascript.svg" width="50" height="50" alt="javascript">
     <img src="{{ site.baseurl }}/assets/about/react.svg" width="50" height="50" alt="react">
     <img src="{{ site.baseurl }}/assets/about/nodedotjs.svg" width="50" height="50">
     <img src="{{ site.baseurl }}/assets/about/jetpackcompose.svg" width="50" height="50" alt="jetpackcompose">
-    <img src="{{ site.baseurl }}/assets/about/androidauto.svg" width="50" height="50">
     <img src="{{ site.baseurl }}/assets/about/googlecloud.svg" width="50" height="50">
-    <img src="{{ site.baseurl }}/assets/about/googleplay.svg" width="50" height="50">
     <img src="{{ site.baseurl }}/assets/about/docker.svg" width="50" height="50" alt="docker">
     <img src="{{ site.baseurl }}/assets/about/ngrok.svg" width="50" height="50" alt="ngrok">
     <img src="{{ site.baseurl }}/assets/about/flyway.svg" width="50" height="50" alt="flayway">
@@ -102,18 +101,21 @@ You can reach me via <a href="{{ site.links.email }}">gusrylmubarok@gmail.com</a
     <img src="{{ site.baseurl }}/assets/about/materialdesign.svg" width="50" height="50">
     <img src="{{ site.baseurl }}/assets/about/jekyll.svg" width="50" height="50">
 
-    <img src="{{ site.baseurl }}/assets/about/virtualbox.svg" width="50" height="50">
     <img src="{{ site.baseurl }}/assets/about/amazonaws.svg" width="50" height="50">
     <img src="{{ site.baseurl }}/assets/about/nginx.svg" width="50" height="50">
-    <img src="{{ site.baseurl }}/assets/about/json.svg" width="50" height="50">
-    <img src="{{ site.baseurl }}/assets/about/graphql.svg" width="50" height="50">
+
     <img src="{{ site.baseurl }}/assets/about/junit5.svg" width="50" height="50">
     <img src="{{ site.baseurl }}/assets/about/postman.svg" width="50" height="50">
     <img src="{{ site.baseurl }}/assets/about/sonarqube.svg" width="50" height="50">
     <img src="{{ site.baseurl }}/assets/about/circleci.svg" width="50" height="50">
     <img src="{{ site.baseurl }}/assets/about/swagger.svg" width="50" height="50">
-    <img src="{{ site.baseurl }}/assets/about/jira.svg" width="50" height="50">
 
+    <!-- <img src="{{ site.baseurl }}/assets/about/androidauto.svg" width="50" height="50"> -->
+    <!-- <img src="{{ site.baseurl }}/assets/about/googleplay.svg" width="50" height="50"> -->
+    <!-- <img src="{{ site.baseurl }}/assets/about/virtualbox.svg" width="50" height="50"> -->
+    <!-- <img src="{{ site.baseurl }}/assets/about/json.svg" width="50" height="50"> -->
+    <!-- <img src="{{ site.baseurl }}/assets/about/graphql.svg" width="50" height="50"> -->
+    <!-- <img src="{{ site.baseurl }}/assets/about/jira.svg" width="50" height="50"> -->
 </div>
 </details>
 
