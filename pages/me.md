@@ -45,10 +45,9 @@ You can reach me via <a href="{{ site.links.email }}">gusrylmubarok@gmail.com</a
 <summary>Programming Language</summary>
 <div class="app-icons">
     <img src="{{ site.baseurl }}/assets/about/dart.svg" width="50" height="50" alt="dart">
-        <img src="{{ site.baseurl }}/assets/about/java.svg" width="50" height="50" alt="java">
     <img src="{{ site.baseurl }}/assets/about/kotlin.svg" width="50" height="50" alt="kotlin">
+    <img src="{{ site.baseurl }}/assets/about/java.svg" width="50" height="50" alt="java">
     <img src="{{ site.baseurl }}/assets/about/go.svg" width="50" height="50" alt="go">
-
 </div>
 </details>
 
@@ -77,7 +76,6 @@ You can reach me via <a href="{{ site.links.email }}">gusrylmubarok@gmail.com</a
     <img src="{{ site.baseurl }}/assets/about/composer.svg" width="50" height="50" alt="composer">
     <img src="{{ site.baseurl }}/assets/about/npm.svg" width="50" height="50" alt="npm">
 
-    <img src="{{ site.baseurl }}/assets/about/php.svg" width="50" height="50" alt="php">
     <img src="{{ site.baseurl }}/assets/about/laravel.svg" width="50" height="50" alt="laravel">
     <img src="{{ site.baseurl }}/assets/about/javascript.svg" width="50" height="50" alt="javascript">
     <img src="{{ site.baseurl }}/assets/about/react.svg" width="50" height="50" alt="react">
