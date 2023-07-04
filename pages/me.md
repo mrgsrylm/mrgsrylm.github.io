@@ -76,10 +76,11 @@ You can reach me via <a href="{{ site.links.email }}">gusrylmubarok@gmail.com</a
     <img src="{{ site.baseurl }}/assets/about/composer.svg" width="50" height="50" alt="composer">
     <img src="{{ site.baseurl }}/assets/about/npm.svg" width="50" height="50" alt="npm">
 
+    <img src="{{ site.baseurl }}/assets/about/php.svg" width="50" height="50" alt="php">
     <img src="{{ site.baseurl }}/assets/about/laravel.svg" width="50" height="50" alt="laravel">
     <img src="{{ site.baseurl }}/assets/about/javascript.svg" width="50" height="50" alt="javascript">
-    <img src="{{ site.baseurl }}/assets/about/react.svg" width="50" height="50" alt="react">
     <img src="{{ site.baseurl }}/assets/about/nodedotjs.svg" width="50" height="50">
+    <img src="{{ site.baseurl }}/assets/about/react.svg" width="50" height="50" alt="react">
     <img src="{{ site.baseurl }}/assets/about/jetpackcompose.svg" width="50" height="50" alt="jetpackcompose">
     <img src="{{ site.baseurl }}/assets/about/googlecloud.svg" width="50" height="50">
     <img src="{{ site.baseurl }}/assets/about/docker.svg" width="50" height="50" alt="docker">
