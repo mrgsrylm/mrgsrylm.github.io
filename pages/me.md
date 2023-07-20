@@ -48,6 +48,7 @@ You can reach me via <a href="{{ site.links.email }}">gusrylmubarok@gmail.com</a
     <img src="{{ site.baseurl }}/assets/about/kotlin.svg" width="50" height="50" alt="kotlin">
     <img src="{{ site.baseurl }}/assets/about/java.svg" width="50" height="50" alt="java">
     <img src="{{ site.baseurl }}/assets/about/go.svg" width="50" height="50" alt="go">
+    <img src="{{ site.baseurl }}/assets/about/typescript.svg" width="50" height="50" alt="go">
 </div>
 </details>
 
@@ -55,9 +56,10 @@ You can reach me via <a href="{{ site.links.email }}">gusrylmubarok@gmail.com</a
 <summary>Frameworks</summary>
 <div class="app-icons">
     <img src="{{ site.baseurl }}/assets/about/flutter.svg" width="50" height="50" alt="flutter">
-    <img src="{{ site.baseurl }}/assets/about/spring.svg" width="50" height="50" alt="spring">
     <img src="{{ site.baseurl }}/assets/about/android.svg" width="50" height="50" alt="android">
+    <img src="{{ site.baseurl }}/assets/about/spring.svg" width="50" height="50" alt="spring">
     <img src="{{ site.baseurl }}/assets/about/gin-gonic.svg" width="50" height="50" alt="gin-gonic">
+    <img src="{{ site.baseurl }}/assets/about/react.svg" width="50" height="50" alt="react">
 </div>
 </details>
 
@@ -80,7 +82,6 @@ You can reach me via <a href="{{ site.links.email }}">gusrylmubarok@gmail.com</a
     <img src="{{ site.baseurl }}/assets/about/laravel.svg" width="50" height="50" alt="laravel">
     <img src="{{ site.baseurl }}/assets/about/javascript.svg" width="50" height="50" alt="javascript">
     <img src="{{ site.baseurl }}/assets/about/nodedotjs.svg" width="50" height="50">
-    <img src="{{ site.baseurl }}/assets/about/react.svg" width="50" height="50" alt="react">
     <img src="{{ site.baseurl }}/assets/about/jetpackcompose.svg" width="50" height="50" alt="jetpackcompose">
     <img src="{{ site.baseurl }}/assets/about/googlecloud.svg" width="50" height="50">
     <img src="{{ site.baseurl }}/assets/about/docker.svg" width="50" height="50" alt="docker">
@@ -108,6 +109,7 @@ You can reach me via <a href="{{ site.links.email }}">gusrylmubarok@gmail.com</a
     <img src="{{ site.baseurl }}/assets/about/sonarqube.svg" width="50" height="50">
     <img src="{{ site.baseurl }}/assets/about/circleci.svg" width="50" height="50">
     <img src="{{ site.baseurl }}/assets/about/swagger.svg" width="50" height="50">
+    <img src="{{ site.baseurl }}/assets/about/archlinux.svg" width="50" height="50" alt="linux">
 
     <!-- <img src="{{ site.baseurl }}/assets/about/androidauto.svg" width="50" height="50"> -->
     <!-- <img src="{{ site.baseurl }}/assets/about/googleplay.svg" width="50" height="50"> -->
