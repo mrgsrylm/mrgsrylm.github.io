@@ -12,7 +12,7 @@ image: /assets/about/profile.jpg
 <!-- Intro -->
 
 {: style="text-align: justify" }
-I'm <b>Agus S. Mubarok</b> a software engineer focused on building high-quality application. My interest in [software development](/), [system design](/), [cloud computing](/), and [mobile application](/). Have ability to use some programming languages to build and maintenance application products then make sure it works.
+I'm <b>Agus S. Mubarok</b> a software engineer focused on building high-quality application. My interest in [software development](/), [system design](/), [cloud computing](/), [operating system](/)and [machine learning](/). Have ability to use some programming languages to build and maintenance application products then make sure it works.
 
 {: style="text-align: justify" }
 As a software engineer, I motivated to learn something new technology, then put special effort into optimizing my code and providing the best user experience. My goal is to always build applications that are scalable and efficient. When I'm not in front of a computer screen, I'm probably cycling, swimming or something.
@@ -23,8 +23,8 @@ You can reach me via <a href="{{ site.links.email }}">gusrylmubarok@gmail.com</a
 
 <hr>
 <div>
-    👨‍💻 <b>I'm building applications: </b> Poy Wallet, <del>Vaccine Partners</del>. <br>
-    📙 <b>I'm studying about</b> Database Design & SQL at <a href="https://academy.oracle.com/">Oracle Academy</a>, <del>Scalable Web Service at <a href="https://www.hacktiv8.com/scalable-web-services-with-golang" target="_blank">Hactiv8</a></del>.
+    👨‍💻 <b>I'm building applications: </b> <del>Poy Wallet</del>, <del>Vaccine Partners</del>. <br>
+    📙 <b>I'm studying about</b> Backend Expert at <a href="https://www.dicoding.com/academies/276">Dicoding</a>, <del>Scalable Web Service at <a href="https://www.hacktiv8.com/scalable-web-services-with-golang" target="_blank">Hactiv8</a></del>.
 </div>
 <hr>
 
