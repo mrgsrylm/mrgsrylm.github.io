@@ -24,7 +24,7 @@ You can reach me via <a href="{{ site.links.email }}">gusrylmubarok@gmail.com</a
 <hr>
 <div>
     👨‍💻 <b>I'm building applications: </b> <del>Poy Wallet</del>, <del>Vaccine Partners</del>. <br>
-    📙 <b>I'm studying about</b> Backend Expert at <a href="https://www.dicoding.com/academies/276">Dicoding</a>, <del>Scalable Web Service at <a href="https://www.hacktiv8.com/scalable-web-services-with-golang" target="_blank">Hactiv8</a></del>.
+    📙 <b>I'm studying about</b> <del>Backend Expert at <a href="https://www.dicoding.com/academies/276">Dicoding</a></del>, <del>Scalable Web Service at <a href="https://www.hacktiv8.com/scalable-web-services-with-golang" target="_blank">Hactiv8</a></del>.
 </div>
 <hr>
 

@@ -1,15 +1,15 @@
 title: Agus S. Mubarok
 author: Agus S. Mubarok
 description: Personal Portfolio for Agus Syahril Mubarok A Software Engineer, Mobile Engineer. Agus Syahril Mubarok
-url: https://gusriil.github.io/
+url: https://mrgsrylm.github.io/
 timezone: Asia/Jakarta
 
 links:
-  github: https://github.com/gusriil
-  linkedin: https://www.linkedin.com/in/gusriil
-  instagram: https://www.instagram.com/gusriil
-  twitter: https://twitter.com/gusriil
-  gdev: https://developers.google.com/profile/u/gusriil
+  github: https://github.com/mrgsrylm
+  linkedin: https://www.linkedin.com/in/mrgsrylm
+  instagram: https://www.instagram.com/mrgsrylm
+  twitter: https://twitter.com/mrgsrylm
+  gdev: https://developers.google.com/profile/u/mrgsrylm
   email: mailto:gusrylmubarok@gmail.com
   cekongkir: https://drive.google.com/file/d/16cKzbryjuKzbP28u8lABvvW1MFNXdGz0/view?usp=sharing
   jekyll: https://jekyllrb.com
@@ -27,7 +27,7 @@ sass:
 strict_front_matter: true
 
 twitter:
-  username: gusriil
+  username: mrgsrylm
   card: summary
 
 plugins:
