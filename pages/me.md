@@ -12,7 +12,7 @@ image: /assets/about/profile.jpg
 <!-- Intro -->
 
 {: style="text-align: justify" }
-I'm <b>Agus S. Mubarok</b> a software engineer focused on building high-quality application. My interest in [software development](/), [system design](/), [cloud computing](/), [operating system](/)and [machine learning](/). Have ability to use some programming languages to build and maintenance application products then make sure it works.
+I'm <b>Agus S. Mubarok</b> a software engineer focused on building high-quality application. My interest in [software development](/), [system design](/), [cloud computing](/), [operating system](/) and [machine learning](/). Have ability to use some programming languages to build and maintenance application products then make sure it works.
 
 {: style="text-align: justify" }
 As a software engineer, I motivated to learn something new technology, then put special effort into optimizing my code and providing the best user experience. My goal is to always build applications that are scalable and efficient. When I'm not in front of a computer screen, I'm probably cycling, swimming or something.
