@@ -1,17 +1,17 @@
 ---
 layout: default
-title: Fresensi
-permalink: /apps/fresensi
+title: KlasifikasiSampah
+permalink: /apps/KlasifikasiSampah
 ---
 
 <div class="text-center">
   <picture>
-    <source srcset="{{ site.baseurl }}/assets/apps/fresensi/fresensi-prev.png" width="80%" media="(prefers-color-scheme: dark)">
-    <img src="{{ site.baseurl }}/assets/apps/fresensi/fresensi-prev.png" width="80%">
+    <source srcset="{{ site.baseurl }}/assets/apps/klasifikasisampah/klasifikasi_sampah_prev.jpg" width="80%" media="(prefers-color-scheme: dark)">
+    <img src="{{ site.baseurl }}/assets/apps/klasifikasisampah/klasifikasi_sampah_prev.jpg" width="80%">
   </picture>
 </div>
 
-## Fresensi
+## Model Klasifikasi Sampah
 
 <p class="no-marker-link">
 <a href="https://drive.google.com/file/d/1t8NqKHHshL6EKWyJ-F0cpwLz3c3PDC4g/view?usp=sharing" target="_blank">

@@ -6,7 +6,7 @@ permalink: /apps/notes
 
 <div class="text-center">
   <picture>
-    <source srcset="{{ site.baseurl }}/assets/apps/notes/notes-prev.jpg" width="80%" media="(prefers-color-scheme: dark)">
+    <source srcset="{{ site.baseurl }}/assets/apps/notes/notes-prev.png" width="80%" media="(prefers-color-scheme: dark)">
     <img src="{{ site.baseurl }}/assets/apps/notes/notes-prev.png" width="80%">
   </picture>
 </div>

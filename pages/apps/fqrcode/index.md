@@ -6,7 +6,7 @@ permalink: /apps/fqrcode
 
 <div class="text-center">
   <picture>
-    <source srcset="{{ site.baseurl }}/assets/apps/fqrcode/fqrcode-prev.jpg" width="80%" media="(prefers-color-scheme: dark)">
+    <source srcset="{{ site.baseurl }}/assets/apps/fqrcode/fqrcode-prev.png" width="80%" media="(prefers-color-scheme: dark)">
     <img src="{{ site.baseurl }}/assets/apps/fqrcode/fqrcode-prev.png" width="80%">
   </picture>
 </div>

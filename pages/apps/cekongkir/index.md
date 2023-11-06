@@ -6,7 +6,7 @@ permalink: /apps/cekongkir
 
 <div class="text-center">
   <picture>
-    <source srcset="{{ site.baseurl }}/assets/apps/cekongkir/cekongkir-prev.jpg" width="80%" media="(prefers-color-scheme: dark)">
+    <source srcset="{{ site.baseurl }}/assets/apps/cekongkir/cekongkir-prev-nobg.png" width="80%" media="(prefers-color-scheme: dark)">
     <img src="{{ site.baseurl }}/assets/apps/cekongkir/cekongkir-prev-nobg.png" width="80%">
   </picture>
 </div>

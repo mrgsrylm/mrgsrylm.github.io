@@ -5,6 +5,20 @@ permalink: /projects/
 ---
 
 <div>
+    <img src="../assets/apps/klasifikasisampah/klasifikasi_sampah_ic.png" class="rounded" width="100" height="100">
+    <h2>Model Klasifikasi Sampah</h2>
+    <div>
+        <span class="badge badge-pill">v1.0.0</span>
+        <span class="badge badge-pill">Machine Learning</span>
+        <span class="badge badge-pill">Free</span>
+    </div>
+    <p>....</p>
+    <p><b>Tech:</b> Machine Learning, TensorFlow.</p>
+    <p><a href="/apps/KlasifikasiSampah">Read More {% include icons/chevron-right.html %}</a></p>
+    <p class="text-muted"><i>Released on May 5, 2023</i></p>
+</div>
+
+<div>
     <img src="../assets/apps/fresensi/fresensi.png" class="rounded" width="100" height="100">
     <h2>Fresensi</h2>
     <div>
