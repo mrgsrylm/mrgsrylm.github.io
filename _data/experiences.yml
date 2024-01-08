@@ -1,9 +1,23 @@
+- company: Dinas Lingkungan Hidup Kabupaten Kuningan
+  date: Oct - Dec 2023
+  title: Research Internship
+  jobdesk: 
+    - Develop model Machine Learning for Waste Classification.
+    - Use Convolutional Neural Network, Xception architecture.
+    - Collect and pre-processing Waste images.
+
 - company: MZS Software House
   date: Dec 2021 - Oct 2023
   title: Software Engineer
   jobdesk: 
-    MZS Softwate House provide software product like web and mobile applications. As a dedicated Software Engineer specializing in backend development. I leverage my expertise to craft robust and scalable solutions. With a focus on efficiency and innovative, I design and implement algorithms, ensuring seamless data processing and optimal system performance. I bring a solid foundation in languages such as Java, JavaScript, and Go, coupled with a passion for learning and problem-solving. Involved in backend design and implementation, collaborated with seniors, improved coding skills through feedback and code reviews, conducted unit tests, troubleshooted technical issues proactively, and fostered innovation within the team through continuous learning.
-
+    - Creating, Integration, and Manage Databases (MySQL, MongoDB).
+    - Writing code with Java, PHP.
+    - Work with framework like Spring, Laravel.
+    - Develop Web services like REST, GraphQL.
+    - Integrate with Payment gateway.
+    - Manage and develop Content Management System.
+    - Implemented Test-Driven Development and utilized CI/CD tools.
+  
 - company: CV Bing Elektronik
   date: Jan 2020 - Aug 2020
   title: IT Support
